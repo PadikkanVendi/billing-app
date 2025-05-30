@@ -1,0 +1,17 @@
+
+# Java / Maven
+backend/target/
+*.class
+*.jar
+*.war
+*.log
+
+# Node / Angular
+frontend/node_modules/
+frontend/dist/
+
+# OS / Editor files
+.DS_Store
+*.iml
+.idea/
+.vscode/
